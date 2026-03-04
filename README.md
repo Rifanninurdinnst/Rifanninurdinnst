@@ -14,6 +14,21 @@
 #### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rifanninurdinnst&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rifanninurdinnst/Rifanninurdinnst/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rifanninurdinnst/Rifanninurdinnst/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Rifanninurdinnst/Rifanninurdinnst/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/maroon 5 - payphone">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=maroon%205%20-%20payphone&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 ---
 [![](https://visitcount.itsvg.in/api?id=Rifanninurdinnst&icon=0&color=0)](https://visitcount.itsvg.in)
 
