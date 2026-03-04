@@ -21,14 +21,6 @@
 </picture>
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/maroon 5 - payphone">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=maroon%205%20-%20payphone&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
 ---
 [![](https://visitcount.itsvg.in/api?id=Rifanninurdinnst&icon=0&color=0)](https://visitcount.itsvg.in)
 
