@@ -1,6 +1,6 @@
-### Hello i'am Rifanni Nurdin Nst <br>I'am a student in college <br><br>Thanks for visiting my github 😁
+### Hello i'am Rifanni Nurdin Nst <br>I'am a student in college <br><br>
 ## I really like music
-
+## Thanks for visiting my github 😁
 #### 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ripan_1801) 
 
