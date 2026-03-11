@@ -1,4 +1,4 @@
-### Hello i'am Rifanni Nurdin Nst <br>I'am a student in college <br><br>
+### Hello i am Rifanni Nurdin Nst <br>I'am a student in college <br><br>
 ## I really like music
 ## Thanks for visiting my github 😁
 #### 🌐 Socials:
